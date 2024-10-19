@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jim and I'm a software developer, from Dhaka, Bangladesh</p>
+<p align="left">My name is Jim and I'm a software developer from Dhaka, Bangladesh</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning Java Stack, Algorithms, Computer Networks <br>🎯 Goals: Cloud Architecture <br>🎲 Fun fact: I love coding with notepad++</p>
+<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning Java Stack, Algorithms, Computer Networks <br>🎯 Goals: To Become a Cloud Architecture & ML Ops <br>🎲 Fun fact: I love coding with notepad++</p>
 
 ###
 
