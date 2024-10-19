@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning Java Stack, Algorithms, Computer Networks <br>🎯 Goals: To Become an Expert in Cloud Architecture & ML Ops <br>🎲 Fun fact: I love coding with notepad++</p>
+<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning Java Stack, Algorithms, Computer Networks <br>🎯 Goals: To Become an Expert in Cloud Architecture & ML Ops <br>🎲 Fun fact: I love coding with Notepad++</p>
 
 ###
 
